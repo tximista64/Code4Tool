@@ -73,6 +73,5 @@ Active host: 192.168.1.38
 ---
 
 ## 📄 License
-
-GNU Affero General Public License v3.0
+MIT
 Feel free to modify the source for your own fun!
