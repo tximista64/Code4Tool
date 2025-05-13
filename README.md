@@ -43,7 +43,7 @@ The codebase is organized into thematic folders, each targeting a specific techn
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/tximista64/Code4Tool.git
+git clone https://github.com/tximista64/Code4Tool
 cd Code4Tool
 # Example: running a quick ip geolocalizer
 cd Network
