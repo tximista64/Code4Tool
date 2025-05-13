@@ -2,7 +2,7 @@
 
 ## Description
 
-**rose64** is a minimalist and playful Base64 decoder written in Go. The program prompts the user to input a Base64-encoded string, decodes it, and prints the result. It also includes a decorative ASCII art header rendered using the `go-figlet` library (external dependency).
+Initially written in python  **rose64** is a minimalist and playful Base64 decoder written in Go. The program prompts the user to input a Base64-encoded string, decodes it, and prints the result. It also includes a decorative ASCII art header rendered using the `go-figlet` library (external dependency).
 
 ## Features
 
