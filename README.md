@@ -1,4 +1,4 @@
-# 🧠 Crafted Code for Curious Minds
+# Crafted Code for Curious Minds
 
 Welcome to **Code4Tool**, a personal lab of handcrafted scripts, tools, and experiments.  
 This is a playground for learning, automation, and exploration — where function beats form (most of the time).
@@ -6,7 +6,7 @@ This is a playground for learning, automation, and exploration — where functio
 <img src="https://github.com/tximista64/Code4Tool/blob/main/Code4Tool.png" style="height: 1000px; width: 1000;" />
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 The codebase is organized into thematic folders, each targeting a specific technical domain:
 
@@ -24,7 +24,7 @@ The codebase is organized into thematic folders, each targeting a specific techn
 
 ---
 
-## 🧪 Purpose
+##  Purpose
 
 - **Curiosity-first**: Built to learn, break, rebuild.
 - **Minimalist by design**: One file, one idea, one function.
@@ -32,7 +32,7 @@ The codebase is organized into thematic folders, each targeting a specific techn
 
 ---
 
-## 🔧 Requirements
+##  Requirements
 
 - Most scripts are written in **Python 3** or **Go 1.22+**
 - Run in **Linux**, sometimes with elevated privileges (`sudo`)
@@ -40,7 +40,7 @@ The codebase is organized into thematic folders, each targeting a specific techn
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ```bash
 git clone https://github.com/tximista64/Code4Tool
@@ -51,7 +51,7 @@ go run kawaii_ip_fetcher.go
 ```
 ---
 
-## 📜 License
+##  License
 
 This repository is licensed under the MIT License
 You can freely fork, modify, and distribute the code as long as you retain the original license.
