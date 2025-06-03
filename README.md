@@ -1,4 +1,4 @@
-# 🧠 Crafted Code for Curious Minds
+#  Crafted Code for Curious Minds
 
 Welcome to **Code4Tool**, a personal lab of handcrafted scripts, tools, and experiments.  
 This is a playground for learning, automation, and exploration — where function beats form (most of the time).
