@@ -16,12 +16,20 @@ Whether it's decoding weird strings, understanding obscure algorithms, or just b
 These tools are meant to assist in solving challenges (Root-Me, HackTheBox, TryHackMe…) or in malware analysis.  
 They’re simple, modular, and CLI-friendly.
 
-##  Usage
+## Usage
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/tximista64/
+   ```
+
+2. Change into the project directory:
+
+   ```bash
    cd crypto
-```
-2. Run the desired tool
-3. Customize the script parameters to fit your needs
+   ```
+
+3. Run the desired tool
+
+4. Customize the script parameters to fit your needs
