@@ -1,3 +1,1 @@
-*.sh linguist-detectable=false
-*.go linguist-language=Go
-*.py linguist-language=Python
+Code4Tool/Misc/HTB_Collection/* linguist-detectable=false
