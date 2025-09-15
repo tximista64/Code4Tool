@@ -22,6 +22,14 @@ The codebase is organized into thematic folders, each targeting a specific techn
 - **Network**  
   Networking utilities, port scanners, ICMP ping sweepers, and raw socket experiments.
 
+- **Misc**
+
+何?
+
+- **Web**
+
+  Mostly automation scripts
+
 ---
 
 ##  Purpose
